@@ -1,0 +1,8 @@
+list = [Adam, Dean, Harvey, Mick, John]
+
+result = list.count(Harvey)
+
+if result > 0:
+    print("Harvey exists in the list")
+else:
+    print("Harvey does not exist in the list")
